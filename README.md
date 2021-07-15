@@ -5,4 +5,4 @@ hw1: Build a part of compiler "Lex"
 
 hw2: Build a part of compiler "Yacc"
 
-hw3: Combine the above to make a simple compiler
+hw3: Combine the above to build a simple compiler
